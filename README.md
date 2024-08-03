@@ -53,7 +53,14 @@ This projectwas developed as part of an embedded systems diploma to enhance secu
    - Ensures that the entered password matches the stored one. If not, users are given multiple chances to enter the correct password, with a buzzer indicating incorrect entries.
 
 ## Simulation Screenshots
-*Include screenshots of the simulation here.*
+
+![image](https://github.com/ossama971/Door-Locker-Security-Systems/blob/main/imgs/Pasted%20Graphic.png) 
+
+![image](https://github.com/ossama971/Door-Locker-Security-Systems/blob/main/imgs/Pasted%20Graphic%201.png) 
+
+![image](https://github.com/ossama971/Door-Locker-Security-Systems/blob/main/imgs/Pasted%20Graphic%202.png) 
+
+![image](https://github.com/ossama971/Door-Locker-Security-Systems/blob/main/imgs/Pasted%20Graphic%203.png) 
 
 ## How to Use
 
